@@ -1,7 +1,6 @@
 # Projeto  Aluguel de Quartos
 
-Projeto Final - CWI RESET - 3ª Edição
-Como desafio para o projeto final do CWI RESET, vamos criar a API de um aplicativo de aluguel de quartos e casas. O nome do aplicativo deverá ser definido por cada participante.
+API de um aplicativo de aluguel de quartos e casas. O nome do aplicativo deverá ser definido por cada participante.
 
 Estrutura de Classes do Domínio
 A estrutura de classes abaixo, representa o que é esperado que seja persistido pela aplicação. Nem sempre as interfaces REST vão representar exatamente a estrutura de classes do domínio. Os tipos de dados foram suprimidos, você deve definir o tipo mais adequado para cada dado. Somente os atributos que referenciam outras classes foram explicitados.
